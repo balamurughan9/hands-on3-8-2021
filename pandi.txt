@@ -1,1 +1,3 @@
-this is pandi.txt
+this is pandi branch created pandi.txt
+i have added 2 extra pics in pandi brach
+going to merge with omji brach
