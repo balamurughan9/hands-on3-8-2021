@@ -1,0 +1,5 @@
+i have created a master file in my 
+laptop local repo
+
+now i have to add and commit 
+this in git bash staging
